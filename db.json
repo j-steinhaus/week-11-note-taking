@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "id": 1,
+      "title": "Coding Notes",
+      "text": "Here are my notes for coding"
+    },
+    {
+      "id": 2,
+      "title": "To Do List:",
+      "text": "Mail realtor letters\nTake niece to the playground"
+    },
+    {
+      "id": 3,
+      "title": "Costco List",
+      "text": "Ramen\nDrinks\nSnacks\nProtein Powder\nFruit\nBagels"
     }
-]
+  ]
